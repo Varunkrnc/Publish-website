@@ -64,7 +64,7 @@ header{
 		font-size: var(--p-font);
 		font-weight: 500;
 		color: var(--text-color);
-		margin: 0 25px;
+		margin: 0 10px;
 		transition: all ease .50s;
 }
 
