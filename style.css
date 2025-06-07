@@ -55,6 +55,10 @@ header{
 
 		display: flex;
 }
+.navbar li {
+    padding: 0 10px;
+}
+
 
 .navbar a{
 		font-size: var(--p-font);
@@ -63,6 +67,7 @@ header{
 		margin: 0 25px;
 		transition: all ease .50s;
 }
+
 
 .navbar a:hover{
 	color: var(--main-color);
