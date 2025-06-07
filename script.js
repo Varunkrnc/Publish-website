@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let menu = document. querySelector('#menu-icon');
 let navbar	= document.querySelector('.navbar');
 
@@ -26,7 +26,7 @@ sr.reveal('.main-btn',{delay:860,orgin: 'left'});
 
 sr.reveal('.social',{delay:1000,orgin: 'bottom'});
 
-=======
+
 let menu = document. querySelector('#menu-icon');
 let navbar	= document.querySelector('.navbar');
 
@@ -54,4 +54,4 @@ sr.reveal('.main-btn',{delay:860,orgin: 'left'});
 
 sr.reveal('.social',{delay:1000,orgin: 'bottom'});
 
->>>>>>> 33bc40ad02903223e70785e38687b218b2712e69
+
